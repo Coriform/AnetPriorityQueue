@@ -1,3 +1,3 @@
-# AnetPriorityQueue
-ArenaNet Test Question #2 - Double-Ended Priority Queue
-I went with the dual heap approach
+# MinPriorityQueue
+Priority queue for C# that can be dequeued to produce the element with the lowest priority.
+Uses a simple min heap.
